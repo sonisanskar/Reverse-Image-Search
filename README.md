@@ -8,4 +8,6 @@ Elastic Search, a powerful search and analytics engine known for its scalability
 
 
 # Neigborhood Blending 
-
+We want to use the neighborhood items' information to refine the query item's embedding and make the cluster clearer. In order to do that, we simply weighted-sum the neighborhood embeddings with similarity as weights and add it to the query embedding. So we blend neighborhood embeddings. We call it NB(Neighborhood Blending).
+![](NeighborBlend.png)
+![](formula.png)
