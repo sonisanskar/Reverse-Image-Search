@@ -1,4 +1,4 @@
-![Scaling Image Retrieval](scaling_image-retrieval.png)
+![Scaling Image Retrieval](arch.png)
 
 ## Feature Vector Extraction
 Vector embeddings are high-dimensional vectors used to represent data points, such as words, sentences or images, in a continuous vector space. Each dimension of the vector captures some aspect of the data's meaning or context, allowing seemingly disparate forms of content to be compared and analyzed based on their semantic and contextual similarities. This representation is crucial for processing and understanding the vast and varied data encountered in social media. 
